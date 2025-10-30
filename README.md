@@ -78,6 +78,6 @@ The dashboard enables hospital administrators and analysts to gain **data-driven
 
 ## 🧾 Author
 
-**Created by:** [Your Name]  
-📧 **Contact:** [your.email@example.com]  
-🔗 **LinkedIn:** [Your LinkedIn Profile]  
+**Created by:** [Shivendra Pratap Singh]  
+📧 **Contact:** [shivendra2408@gmail.com]  
+🔗 **LinkedIn:** [https://github.com/Shiva936-6]  
