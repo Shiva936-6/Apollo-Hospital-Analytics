@@ -1,4 +1,4 @@
-# 🏥 Apollo Hospitals: Leads Flow Dashboard (Power BI)
+# 🏥 Apollo Hospital Analytics: Leads Flow Dashboard (Power BI)
 
 This repository contains a **Power BI dashboard** developed to monitor and analyze **Apollo Hospitals' patient leads flow**, including admissions, discharges, billing, feedback, and diagnosis metrics.  
 The dashboard enables hospital administrators and analysts to gain **data-driven insights** into patient management and operational performance.
